@@ -1,0 +1,10 @@
+{
+  "appId": "job-application",
+  "apiKey": "c5ccb71f28353fa714bc7b9c48a3c95307343ad2c26a591687ad352075d02337",
+  "public": "./",
+  "ignore": [
+    "stamplay.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
